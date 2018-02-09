@@ -13,6 +13,8 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * CentOS 6 Linux Server Cookbook [[Download]](/book/CentOS%206%20Linux%20Server%20Cookbook.pdf)
 * Command Line Kung Fu [[Download]](/book/Command%20Line%20Kung%20Fu.epub)
 * Continuous Delivery and DevOps - A Quickstart Guide [[Download]](/book/Continuous%20Delivery%20and%20DevOps%20-%20A%20Quickstart%20Guide.pdf)
+* CoreOS Essentials [[Download]](/book/CoreOS%20Essentials.pdf)
+* Designing and Implementing Linux Firewalls and QoS using netfilter, iproute2, NAT and l7-filter [[Download]](/book/Designing%20and%20Implementing%20Linux%20Firewalls%20and%20QoS%20using%20netfilter%2C%20iproute2%2C%20NAT%20and%20l7-filter.pdf)
 * DevOps Automation Cookbook [[Download]](/book/DevOps%20Automation%20Cookbook.pdf)
 * DevOps Bootcamp [[Download]](/book/DevOps%20Bootcamp.pdf)
 * DevOps For Beginners - Joseph Joyner [[Download]](/book/DevOps%20For%20Beginners%20-%20Joseph%20Joyner.epub)
@@ -21,7 +23,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * DevOps on the Microsoft Stack [[Download]](/book/DevOps%20on%20the%20Microsoft%20Stack.pdf)
 * DevOps with Windows Server 2016 [[Download]](/book/DevOps%20with%20Windows%20Server%202016.pdf)
 * DevOps, DBAs, and DBaaS - Managing Data Platforms to Support Continuous Integration [[Download]](/book/DevOps%2C%20DBAs%2C%20and%20DBaaS%20-%20Managing%20Data%20Platforms%20to%20Support%20Continuous%20Integration.pdf)
-* Effective DevOps with AWS.azw3 [[Download]](/book/Effective%20DevOps%20with%20AWS.azw3)
+* Effective DevOps with AWS [[Download]](/book/Effective%20DevOps%20with%20AWS.azw3)
 * Effective DevOps [[Download]](/book/Effective%20DevOps.pdf)
 * grep Pocket Reference - John Bambenek & Agnieszka Klus [[Download]](/book/grep%20Pocket%20Reference%20-%20John%20Bambenek%20%26%20Agnieszka%20Klus.epub)
 * How Linux Works - Brian Ward [[Download]](/book/How%20Linux%20Works%20-%20Brian%20Ward.epub)
@@ -56,3 +58,4 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Windows PowerShell in Action [[Download]](/book/Windows%20PowerShell%20in%20Action.pdf)
 * Windows PowerShell Pocket Reference [[Download]](/book/Windows%20PowerShell%20Pocket%20Reference.pdf)
 * Working with Linux – Quick Hacks for the Command Line [[Download]](/book/Working%20with%20Linux%20%E2%80%93%20Quick%20Hacks%20for%20the%20Command%20Line.pdf)
+
