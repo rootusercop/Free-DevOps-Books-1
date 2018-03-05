@@ -68,6 +68,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * The DevOps Adoption Playbook [[Download]](/book/The%20DevOps%20Adoption%20Playbook.pdf)
 * The DevOps Handbook - How to Create World-Class Agility, Reliability, and Security in Technology Organizations [[Download]](/book/The%20DevOps%20Handbook%20-%20How%20to%20Create%20World-Class%20Agility%2C%20Reliability%2C%20and%20Security%20in%20Technology%20Organizations.epub)
 * The Linux Command Line - A Complete Introduction [[Download]](/book/The%20Linux%20Command%20Line%20-%20A%20Complete%20Introduction.pdf)
+* tmux 2 - Productive Mouse-Free Development [[Download]](/book/tmux%202%20-%20Productive%20Mouse-Free%20Development.epub)
 * tmux Taster [[Download]](/book/tmux%20Taster.pdf)
 * UNIX and Linux System Administration Handbook - Fifth Edition [[Download]](/book/UNIX%20and%20Linux%20System%20Administration%20Handbook%20-%20Fifth%20Edition.epub)
 * Unix Power Tools [[Download]](/book/Unix%20Power%20Tools.pdf)
