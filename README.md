@@ -75,6 +75,8 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Windows PowerShell Cookbook [[Download]](/book/Windows%20PowerShell%20Cookbook.pdf)
 * Windows PowerShell in Action [[Download]](/book/Windows%20PowerShell%20in%20Action.pdf)
 * Windows PowerShell Pocket Reference [[Download]](/book/Windows%20PowerShell%20Pocket%20Reference.pdf)
+* Wireshark Essentials [[Download]](/book/Wireshark%20Essentials.pdf)
+* Wireshark Network Security [[Download]](/book/Wireshark%20Network%20Security.pdf)
 * Working with Linux – Quick Hacks for the Command Line [[Download]](/book/Working%20with%20Linux%20%E2%80%93%20Quick%20Hacks%20for%20the%20Command%20Line.pdf)
 * Your UNIX Linux - The Ultimate Guide - Third Edition [[Download]](/book/Your%20UNIX%20Linux%20-%20The%20Ultimate%20Guide%20-%20Third%20Edition.pdf)
 
