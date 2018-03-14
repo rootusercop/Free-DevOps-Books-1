@@ -37,6 +37,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Implementing DevOps with Ansible 2 [[Download]](/book/Implementing%20DevOps%20with%20Ansible%202.epub)
 * Implementing Modern DevOps [[Download]](/book/Implementing%20Modern%20DevOps.pdf)
 * Infrastructure as Code (IAC) Cookbook [[Download]](/book/Infrastructure%20as%20Code%20%28IAC%29%20Cookbook.epub)
+* Infrastructure as Code (IAC) Cookbook [[Download]](/book/Infrastructure%20as%20Code%20%28IAC%29%20Cookbook.pdf)
 * Learn Windows PowerShell 3 in a Month of Lunches [[Download]](/book/Learn%20Windows%20PowerShell%203%20in%20a%20Month%20of%20Lunches.pdf)
 * Learning Continuous Integration with Jenkins [[Download]](/book/Learning%20Continuous%20Integration%20with%20Jenkins.pdf)
 * Learning DevOps - Continuously Deliver Better Software [[Download]](/book/Learning%20DevOps%20-%20Continuously%20Deliver%20Better%20Software.pdf)
