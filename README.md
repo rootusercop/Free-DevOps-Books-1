@@ -7,6 +7,7 @@ This is my personal collection of free DevOps books, feel free to share and read
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
 * A Practical Guide to Continuous Delivery [[Download]](/book/A%20Practical%20Guide%20to%20Continuous%20Delivery.epub)
+* API-Driven DevOps [[Download]](/book/API-Driven%20DevOps.epub)
 * Automate it! - Recipes to upskill your business [[Download]](/book/Automate%20it%21%20-%20Recipes%20to%20upskill%20your%20business.pdf)
 * Automate it! [[Download]](/book/Automate%20it%21.pdf)
 * Automate the Boring Stuff with Python - Al Sweigart [[Download]](/book/Automate%20the%20Boring%20Stuff%20with%20Python%20-%20Al%20Sweigart.epub)
