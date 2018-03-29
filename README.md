@@ -1,6 +1,10 @@
 # Free DevOps Books
 
-This is my personal collection of free DevOps books, feel free to share and read.
+This is a curated collection of free DevOps eBooks available on the Internet. Please feel free to share and learn.
+
+If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
+
+**Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
 
 ## List of Books
 
@@ -64,6 +68,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Mastering Linux [[Download]](/book/Mastering%20Linux.pdf)
 * Mastering Wireshark [[Download]](/book/Mastering%20Wireshark.pdf)
 * Mesos in Action [[Download]](/book/Mesos%20in%20Action.pdf)
+* Microservices - Building Scalable Software [[Download]](/book/Microservices%20-%20Building%20Scalable%20Software.pdf)
 * Microservices - Flexible Software Architecture [[Download]](/book/Microservices%20-%20Flexible%20Software%20Architecture.pdf)
 * Microservices Deployment Cookbook [[Download]](/book/Microservices%20Deployment%20Cookbook.pdf)
 * Microservices From Day One - Build Robust and Scalable Software from the Start [[Download]](/book/Microservices%20From%20Day%20One%20-%20Build%20Robust%20and%20Scalable%20Software%20from%20the%20Start.pdf)
@@ -73,6 +78,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * PowerShell in Practice [[Download]](/book/PowerShell%20in%20Practice.pdf)
 * PowerShell Succinctly [[Download]](/book/PowerShell%20Succinctly.pdf)
 * Practical DevOps [[Download]](/book/Practical%20DevOps.pdf)
+* Practical Microservices [[Download]](/book/Practical%20Microservices.epub)
 * Pro Continuous Delivery - With Jenkins 2.0 [[Download]](/book/Pro%20Continuous%20Delivery%20-%20With%20Jenkins%202.0.pdf)
 * REST API Design Rulebook [[Download]](/book/REST%20API%20Design%20Rulebook.pdf)
 * Shell Scripting Recipes [[Download]](/book/Shell%20Scripting%20Recipes.pdf)
