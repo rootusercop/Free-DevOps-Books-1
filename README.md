@@ -11,6 +11,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
 * A Practical Guide to Continuous Delivery [[Download]](/book/A%20Practical%20Guide%20to%20Continuous%20Delivery.epub)
+* Advanced Bash-Scripting Guide [[Download]](/book/Advanced%20Bash-Scripting%20Guide.pdf)
 * API-Driven DevOps [[Download]](/book/API-Driven%20DevOps.epub)
 * Automate it! - Recipes to upskill your business [[Download]](/book/Automate%20it%21%20-%20Recipes%20to%20upskill%20your%20business.pdf)
 * Automate it! [[Download]](/book/Automate%20it%21.pdf)
@@ -37,6 +38,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Effective DevOps [[Download]](/book/Effective%20DevOps.pdf)
 * Essential Skills for Hackers - Kevin Cardwell [[Download]](/book/Essential%20Skills%20for%20Hackers%20-%20Kevin%20Cardwell.epub)
 * Getting Started with tmux [[Download]](/book/Getting%20Started%20with%20tmux.pdf)
+* GNU Linux Advanced Administration [[Download]](/book/GNU%20Linux%20Advanced%20Administration.pdf)
 * grep Pocket Reference - John Bambenek & Agnieszka Klus [[Download]](/book/grep%20Pocket%20Reference%20-%20John%20Bambenek%20%26%20Agnieszka%20Klus.epub)
 * Hello Environments - Learn Modern Development Environments [[Download]](/book/Hello%20Environments%20-%20Learn%20Modern%20Development%20Environments.epub)
 * How Linux Works - Brian Ward [[Download]](/book/How%20Linux%20Works%20-%20Brian%20Ward.epub)
