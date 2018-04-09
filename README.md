@@ -83,6 +83,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Practical Microservices [[Download]](/book/Practical%20Microservices.epub)
 * Pro Continuous Delivery - With Jenkins 2.0 [[Download]](/book/Pro%20Continuous%20Delivery%20-%20With%20Jenkins%202.0.pdf)
 * REST API Design Rulebook [[Download]](/book/REST%20API%20Design%20Rulebook.pdf)
+* Scala Microservices [[Download]](/book/Scala%20Microservices.azw3)
 * Shell Scripting Recipes [[Download]](/book/Shell%20Scripting%20Recipes.pdf)
 * The DevOps 2.0 Toolkit [[Download]](/book/The%20DevOps%202.0%20Toolkit.pdf)
 * The DevOps 2.1 Toolkit - Docker Swarm [[Download]](/book/The%20DevOps%202.1%20Toolkit%20-%20Docker%20Swarm.pdf)
