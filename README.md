@@ -9,7 +9,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 ## List of Books
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
-
+### DevOps
 * A Practical Guide to Continuous Delivery [[Download]](/book/A%20Practical%20Guide%20to%20Continuous%20Delivery.epub)
 * Advanced Bash-Scripting Guide [[Download]](/book/Advanced%20Bash-Scripting%20Guide.pdf)
 * API-Driven DevOps [[Download]](/book/API-Driven%20DevOps.epub)
@@ -108,3 +108,24 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Working with Linux – Quick Hacks for the Command Line [[Download]](/book/Working%20with%20Linux%20%E2%80%93%20Quick%20Hacks%20for%20the%20Command%20Line.pdf)
 * Your UNIX Linux - The Ultimate Guide - Third Edition [[Download]](/book/Your%20UNIX%20Linux%20-%20The%20Ultimate%20Guide%20-%20Third%20Edition.pdf)
 
+### Cybersecurity / Hacking
+
+* Attacking Network Protocol [[Download]](/book/attackingnetworkprotocols_ebook.pdf)
+* Black Hat Go [[Download]](/book/blackhatgo.pdf)
+* Black Hat Python - 2nd Edition[[Download]](/book/blackhatpython2ndedition.pdf)
+* CryptoDictionnary [[Download]](/book/cryptodictionary.pdf)
+* CyberJutsu [[Download]](/book/cyberjutsu.pdf)
+* Essential Skills for Hackers - Kevin Cardwell [[Download]](/book/Essential%20Skills%20for%20Hackers%20-%20Kevin%20Cardwell.epub)
+* Foundations of Information Security [[Download]](/book/foundationsofinformationsecurity.pdf)
+* GHydra [[Download]](/book/ghidrabook.pdf)
+* How to Hack Like a Ghost [[Download]](/book/howtohacklikeaghost.pdf)
+* Malware Datascience  [[Download]](/book/malwaredatascience.pdf)
+* Mastering Wireshark [[Download]](/book/Mastering%20Wireshark.pdf)
+* Nmap Essentials [[Download]](/book/Nmap%20Essentials.pdf)
+* Pentesting Azure Applications [[Download]](/book/pentestingazureapplications_ebook.pdf)
+* Practical Forensic Imaging [[Download]](practicalforensicimaging.pdf)
+* Practical Malware Analysis [[Download]](practicalmalwareanalysis.pdf)
+* Real World Bug Hunting [[Download]](/book/real-worldbughunting.pdf)
+* Rootkits and Bootkis [[Download]](/book/rootkitsandbootkits.pdf)
+* Serious Cryptography [[Download]](/book/seriouscrytography.pdf)
+* The Tangled Web [[Download]](/book/thetangledweb_ebook.pdf)
